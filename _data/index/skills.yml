@@ -1,0 +1,6 @@
+# skills section data
+
+label: Ability
+id : cs
+aspects: Java, PHP, HTML, CSS, JavaScript, Docker, Linux, Bash, Jenkins 
+percentage: 90, 30, 80, 70, 70, 75, 85, 60, 75

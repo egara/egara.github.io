@@ -1,0 +1,57 @@
+# careers section data
+# if you don't have language feature(language.yml is empty), ignore "i18n" items
+- name:
+    detail: University Of León
+    i18n: company_a  
+  desc:
+    detail: I worked at PC Actual    
+    i18n: company_a_desc
+  date:
+    detail: 2013
+    i18n: company_a_date
+  job:
+    detail: Software Engineer and Java Developer
+    i18n: company_a_job
+  icon: fa-plus-square
+
+- name:
+    detail: APEnet
+    i18n: company_a  
+  desc:
+    detail: I worked at Ministry of Culture in European APEnet Project    
+    i18n: company_a_desc
+  date:
+    detail: 2010
+    i18n: company_a_date
+  job:
+    detail: Software Engineer and Java Developer
+    i18n: company_a_job
+  icon: fa-plus-square
+
+- name:
+    detail: PC Actual
+    i18n: company_a
+  desc:
+    detail: I worked at PC Actual
+    i18n: company_a_desc
+  date:
+    detail: 2006
+    i18n: company_a_date
+  job:
+    detail: Technical Writer
+    i18n: company_a_job
+  icon: fa-plus-square
+
+- name:
+    detail: IIER
+    i18n: company_b
+  desc:
+    detail: I worked at IIER (Instituto de Investigación de Enfermedades Raras) at ISCIII
+    i18n: company_b_desc
+  date:
+    detail: 2001
+    i18n: company_b_date
+  job:
+    detail: Java Developer
+    i18n: company_b_job
+  icon: fa-plus-square
