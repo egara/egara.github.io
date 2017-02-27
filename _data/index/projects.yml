@@ -3,6 +3,7 @@
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
 - name: WallpaperDownloader
   i18n: #jalpc
+  url: https://bitbucket.org/eloy_garcia_pca/wallpaperdownloader/wiki/Home
   img: /static/assets/img/landing/wallpaperdownloader.png
   desc: WallpaperDownloader is a cross-platform GUI Java-based application. It allows to download, manage and change automatically your favorite wallpapers from the Internet. It works in Linux (for different Desktop Environment such as KDE, Gnome Shell, Mate, Unity or XFCE), Windows (7, 8 and 10) and MacOS. You can use it directly executing the complete JAR file or via snap package and AUR.
 
@@ -10,5 +11,5 @@
   i18n: #leetcode
   gh_user: egara
   repo: arch-btrfs-installation
-  img: /static/assets/img/landing/leetcode.png
+  img: /static/assets/img/landing/arch.png
   desc: A step by step guide to install Arch Linux under BTRFS filesystem and how to survive to a laptop with hybrid graphics (Nvidia and Intel) and not to die trying to install it.
