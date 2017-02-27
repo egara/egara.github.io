@@ -11,5 +11,5 @@
   i18n: #leetcode
   gh_user: egara
   repo: arch-btrfs-installation
-  img: /static/assets/img/landing/arch.png
+  img: /static/assets/img/landing/arch.jpg
   desc: A step by step guide to install Arch Linux under BTRFS filesystem and how to survive to a laptop with hybrid graphics (Nvidia and Intel) and not to die trying to install it.
