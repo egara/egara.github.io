@@ -4,8 +4,7 @@
 - name: WallpaperDownloader
   i18n: #jalpc
   img: /static/assets/img/landing/wallpaperdownloader.png
-  desc: WallpaperDownloader is a cross-platform GUI Java-based application. It allows to download, manage and change automatically your favorite wallpapers from the Internet. It works in Linux (for different Desktop Environment 
-such as KDE, Gnome Shell, Mate, Unity or XFCE), Windows (7, 8 and 10) and MacOS. You can use it directly executing the complete JAR file or via snap package and AUR.
+  desc: WallpaperDownloader is a cross-platform GUI Java-based application. It allows to download, manage and change automatically your favorite wallpapers from the Internet. It works in Linux (for different Desktop Environment such as KDE, Gnome Shell, Mate, Unity or XFCE), Windows (7, 8 and 10) and MacOS. You can use it directly executing the complete JAR file or via snap package and AUR.
 
 - name: Arch BTRFS Installation
   i18n: #leetcode
