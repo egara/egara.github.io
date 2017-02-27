@@ -13,3 +13,11 @@
   repo: arch-btrfs-installation
   img: /static/assets/img/landing/arch.jpg
   desc: A step by step guide to install Arch Linux under BTRFS filesystem and how to survive to a laptop with hybrid graphics (Nvidia and Intel) and not to die trying to install it.
+
+- name: Marvel Scope
+  i18n: #leetcode
+  gh_user: egara
+  repo: marvel-info-ut-scope
+  img: /static/assets/img/landing/marvel.jpg
+  desc: Scope for Ubuntu Touch wich retrieves information about Marvel's Universe. Discover Marvel's Universe using this scope for Ubuntu Touch. It implements the official Marvel's API.
+
