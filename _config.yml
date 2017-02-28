@@ -23,9 +23,9 @@ author:  # change following line to your infomation.
   avatar: /static/assets/img/landing/avatar.jpg  # upload your avatar at directory and edit it.
   skill_icon1:
     - name: fa-linux
-    - name: fa-icon-shell
+    - name: icon-shell
   skill_icon2:
-    - name: fa-docker
+    - name: icon-docker
     - name: fa-linux
   desc: Hi all! My name is Eloy García Almadén. I'm, mainly, a software developer but I'm a full time tech enthusiast too. I love Open Source, Linux in general (Arch in particular) and black music! Here you will find a summary of all my personal projects. Enter and take a look. Thanks!
 
