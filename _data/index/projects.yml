@@ -21,3 +21,8 @@
   img: /static/assets/img/landing/marvel.jpg
   desc: Scope for Ubuntu Touch wich retrieves information about Marvel's Universe. Discover Marvel's Universe using this scope for Ubuntu Touch. It implements the official Marvel's API.
 
+- name: Docker dnie
+  i18n: #leetcode
+  url: https://hub.docker.com/r/egarcia/dnie/
+  img: /static/assets/img/landing/dnie.jpg
+  desc: Docker container with all software needed to run DNIe (Spanish DNI electrónico) via Firefox. Just plug your reader, run Firefox provided by the container and use your DNIe.
