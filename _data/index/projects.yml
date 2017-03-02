@@ -25,4 +25,5 @@
   i18n: #leetcode
   url: https://hub.docker.com/r/egarcia/dnie/
   img: /static/assets/img/landing/dnie.jpg
-  desc: Docker container with all software needed to run DNIe (Spanish DNI electrónico) via Firefox. Just plug your reader, run Firefox provided by the container and use your DNIe.
+  desc: Docker container with all the software needed to run DNIe (Spanish DNI electrónico) via Firefox. Just plug your reader, run Firefox provided by the container and use your 
+DNIe.
