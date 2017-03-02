@@ -27,3 +27,11 @@
   img: /static/assets/img/landing/dnie.jpg
   desc: Docker container with all the software needed to run DNIe (Spanish DNI electrónico) via Firefox. Just plug your reader, run Firefox provided by the container and use your 
 DNIe.
+
+- name: Docker Sonarr (Full)
+  i18n: #leetcode
+  gh_user: egara
+  repo: full-sonarr-docker
+  img: /static/assets/img/landing/sonarr.png
+  desc: Docker container to run Sonarr. Sonarr, by default, doesn't have a download client installed, so this project tryes to put a client and Sonarr itself working together in a 
+easy way.
