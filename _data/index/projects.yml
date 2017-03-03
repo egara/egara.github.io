@@ -33,3 +33,8 @@
   repo: full-sonarr-docker
   img: /static/assets/img/landing/sonarr.png
   desc: Docker container to run Sonarr. Sonarr, by default, doesn't have a download client installed, so this project tryes to put a client and Sonarr itself working together in an easy way.
+
+- name: "Esto es... GROOVE"
+  url: http://estoes.es
+  img: /static/assets/img/landing/eeg.png
+  desc: The Best Black Music Radio Show (in Spanish). If you like Funky, R&B, Soul, Hip Hop, Rap, Ragga, New Jack Swing music... you will love "Esto es... GROOVE"!
