@@ -2,5 +2,5 @@
 
 label: Ability
 id : cs
-aspects: Java, PHP, HTML, CSS, JavaScript, Docker, Linux, Bash, Jenkins, SQL 
-percentage: 90, 30, 80, 70, 70, 75, 85, 60, 75, 80
+aspects: Java, PHP, HTML, CSS, JavaScript, Docker, Linux, Bash, Jenkins, SQL, Python
+percentage: 90, 30, 80, 70, 70, 75, 85, 60, 75, 80, 60
