@@ -38,3 +38,10 @@
   url: http://estoes.es
   img: /static/assets/img/landing/eeg.png
   desc: The Best Black Music Radio Show (in Spanish). If you like Funky, R&B, Soul, Hip Hop, Rap, Ragga, New Jack Swing music... you will love "Esto es... GROOVE"!
+
+- name: ButterManager
+  i18n: #leetcode
+  gh_user: egara
+  repo: buttermanager
+  img: /static/assets/img/landing/buttermanager.png
+  desc: Graphic BTRFS tool for managing snapshots, balancing filesystems and upgrading the system safetly.
